@@ -1,18 +1,14 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/ayushns9/ayushns9/master/intro.gif" alt="👋 Hi there! I'm Ayush Goel" title="👋 Hi there! I'm Ayush Goel"/>
+
 I am Ayush, a software engineer enthusiastic about learning new technologies. 
 
-<!--
-**ayushns9/ayushns9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://vbr.wocr.tk/badge?page_id=ayushns9.ayushns9&color=00cf00)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :book: About me
+- 🖥 Sofwtare developer with an entrepreneurial mind
+- 🎓 Btech graduate in Computer Science and Engineering from IIIT Delhi, class of 2022
+- 🌐 Enthusiastic about open source 
+- 🏋 Outside of work, I like to spend time in the gym
+- 📒 Find my resume [here](https://raw.githubusercontent.com/ayushns9/ayushns9/master/Ayush_Goel_Resume.pdf)
