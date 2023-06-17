@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/ayushns9/ayushns9/master/intro.gif" alt="👋 Hi there! I'm Ayush Goel" title="👋 Hi there! I'm Ayush Goel"/>
-
 I am Ayush, a software engineer enthusiastic about learning new technologies. 
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=ayushns9.ayushns9&color=00cf00)
